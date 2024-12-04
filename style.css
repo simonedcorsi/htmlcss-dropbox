@@ -66,3 +66,29 @@ figure {
     margin: 0 auto;
     padding: 100px 0 0 0;
 }
+
+h2 {
+    margin: 0 auto;
+}
+
+.radio-button {
+    padding: 30px 0 0 0;
+}
+
+.card-section {
+padding-top: 30px;
+display: flex;
+}
+
+.card {
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    width: 30%;
+    padding: 30px;
+}
+
+.interno {
+    list-style-type: none;
+    line-height: 300%;
+}
