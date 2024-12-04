@@ -1,3 +1,8 @@
+html {
+    font-family: sans-serif;
+}
+
+
 .nav-bar {
     background-color: white;
     height: 50px;
@@ -31,9 +36,12 @@
 
 }
 
+.bg {
+    background-color: rgb(218, 218, 255);
+}
+
 .title {
-background-color: rgb(193, 193, 255);
-width: 70%;
+width: 80%;
 text-align: center;
 line-height: 160%;
 }
