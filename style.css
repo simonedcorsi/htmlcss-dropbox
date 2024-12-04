@@ -58,17 +58,23 @@ figure {
 
 .span1 {
     padding: 10px;
-    background-color: blue;
+    background-color: rgb(94, 94, 254);
+}
+
+.hr-header {
+    padding-top: 100px;
+    color:rgb(218, 218, 255); 
 }
 
 .grand-container {
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
     padding: 100px 0 0 0;
 }
 
 h2 {
     margin: 0 auto;
+    font-size: 35px;
 }
 
 .radio-button {
@@ -90,5 +96,5 @@ display: flex;
 
 .interno {
     list-style-type: none;
-    line-height: 300%;
+    line-height: 200%;
 }
