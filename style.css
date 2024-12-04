@@ -1,0 +1,43 @@
+.nav-bar {
+    background-color: white;
+    height: 50px;
+    display: flex;
+
+}
+
+.nav-link1 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.nav-link2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.lista {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+
+}
+
+.lista2 {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+
+}
+
+.title {
+background-color: rgb(193, 193, 255);
+width: 70%;
+text-align: center;
+line-height: 160%;
+}
+
+h1 {
+    text-align: center;
+}
