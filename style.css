@@ -187,3 +187,28 @@ gap: 20px;
 .x {
     padding-top: 50px;
 }
+
+footer {
+    background-color: black;
+    margin-top: 200px;
+    display: flex;
+    padding: 200px;
+    justify-content: space-around;
+}
+
+.column {
+    color: white;
+    text-align: left;
+}
+
+.j {
+    margin-bottom: 30px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 20px;
+}
