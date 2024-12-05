@@ -43,6 +43,11 @@ margin: 0 auto;
    justify-content: space-between;
 }
 
+.arrow {
+    font-size: 100px;
+}
+
+
 figure {
     display: inline-block;
 }
