@@ -130,6 +130,7 @@ display: flex;
 
 .position-item {
     display: flex;
+    padding: 20px;
 }
 
 .item2 {
@@ -137,4 +138,42 @@ display: flex;
     padding: 15px;
     color: white;
     margin: auto;
+}
+
+.container-mid {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 200px;
+    gap: 40px;
+    padding-bottom: 200px;
+}
+
+.ridimensiona {
+   width:65% ;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 35%;
+    padding-top: 40px;
+}
+
+.baa {
+    border: 1 px solid black;
+    padding: 15px;
+}
+
+.layout-sistem {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.layout {
+display: flex;
+flex-direction: column;
+width:32% ;
+gap: 20px;
 }
